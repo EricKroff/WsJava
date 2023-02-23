@@ -35,8 +35,6 @@ public class EntradaDeDatosDesdeVentanaDialogo {
 		mensaje += "numero hexadecimal  de " + numeroDecimal + " = " + Integer.toHexString(numeroBinario);
 		
 		JOptionPane.showMessageDialog(null, mensaje);
-		
-
 	}
 
 }
