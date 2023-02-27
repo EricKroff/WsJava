@@ -10,7 +10,8 @@ public class OperadoresUnarios {
 		System.out.println(j);
 		
 		//SIN ENBARGO SI LO HACEMOS CON -
-		
+		int k = -i;
+		System.out.println(" k = " + k);
 	}
 
 }
