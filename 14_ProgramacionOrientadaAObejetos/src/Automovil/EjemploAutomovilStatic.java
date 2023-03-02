@@ -14,7 +14,7 @@ public class EjemploAutomovilStatic {
 		Automovil auto2 = new Automovil();
 		auto2.setFabricante("mazda");
 		auto2.setModelo("BET-LK");
-		auto2.setColor("Rojo");
+		auto2.setColor(Color.AZUL);
 		auto2.setCilindrada(3.0);
 					
 		System.out.println(auto1.getColor());

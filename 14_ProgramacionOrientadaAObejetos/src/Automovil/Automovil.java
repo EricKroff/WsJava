@@ -105,8 +105,8 @@ public class Automovil {
 	
 	@Override
 	public String toString() {
-		return "Automovil [id=" + id + ", fabricante=" + fabricante + ", modelo=" + modelo + ", color=" + color
-				+ ", cilindrada=" + cilindrada + "]";
+		return "Automovil [fabricante=" + fabricante + ", modelo=" + modelo + ", color=" + color + ", cilindrada="
+				+ cilindrada + "]";
 	}
 	
 	//METODOS
