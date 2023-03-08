@@ -26,8 +26,13 @@ public class TestHerenciaPolimorfismo {
 		animales.add(new Gato(4, true, "Botas", 3));
 		animales.add(new Perro(4, false, "Pepe", "Palleiro"));
 		
+		
+		
+		
 		for(Animal ele: animales) {
 			ele.sonido();
 		}
+	
+	
 	}
 }
